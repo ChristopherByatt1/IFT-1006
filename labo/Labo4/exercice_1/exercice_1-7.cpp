@@ -10,7 +10,6 @@ cout << tab[i] << endl;
 }
 */
 
-
 #include <array>
 #include <iostream>
 
