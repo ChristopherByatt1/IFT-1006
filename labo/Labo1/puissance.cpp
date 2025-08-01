@@ -38,7 +38,7 @@ int main (void)
     }
 
   cout << "x a la puissance y = " << puissance << endl;
-
+  return 0;
 }
 
 
