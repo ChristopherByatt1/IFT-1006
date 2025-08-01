@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-  int total,        // somme des notes
+  int total = 0,        // somme des notes
           notesSaisies = 0, // compteur de notes saisies
           note,        // une note
           moyenne;      // moyenne des notes

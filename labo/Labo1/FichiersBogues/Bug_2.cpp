@@ -1,9 +1,10 @@
-
+#include <iostream>
 
 int main ()
 {
   int entier1;  // déclarations
   int entier2;
+  int somme;
 
   std::cout << "Entrer un premier entier\n"; // affichage
   std::cin >> entier1;                       // lire un entier
