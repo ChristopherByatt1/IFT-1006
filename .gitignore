@@ -1,0 +1,4 @@
+#ignore ces fichiers
+*.exe
+*.pdf
+*.idea
