@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/cbyatt/Cpp/exercices-cpp/labo/Labo1/FichiersBogues/Bug_1'
+binary-path:     '/Users/cbyatt/Cpp/IFT-1006IFT-1006/labo/Labo1/FichiersBogues/Bug_1'
 relocations:     []
 ...
