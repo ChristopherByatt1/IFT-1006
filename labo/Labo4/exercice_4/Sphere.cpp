@@ -1,4 +1,5 @@
 // Sphere.cpp
+
 #include "Sphere.h"
 #include <cmath>        // pour M_PI et pow
 #include <sstream>      // pour std::ostringstream

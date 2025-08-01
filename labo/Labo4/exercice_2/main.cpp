@@ -1,3 +1,8 @@
+///
+/// @file main.cpp
+/// @brief
+/// @author Christopher Byatt
+/// @date 08-01-2025
 //
 // Created by chris on 2025-08-01.
 //
